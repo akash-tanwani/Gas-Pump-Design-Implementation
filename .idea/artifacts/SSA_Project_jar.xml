@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SSA_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSA_Project_jar</output-path>
+    <root id="archive" name="SSA_Project.jar">
+      <element id="module-output" name="SSA_Project" />
+    </root>
+  </artifact>
+</component>
